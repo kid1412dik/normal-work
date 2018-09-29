@@ -60,7 +60,7 @@ day plan：  *日语：    复习√
 python（待定）
 电磁学（待定）
 
-#9.26  
+#9.27  
 Daily plan：
 *日语：    复习√    
      *30min
@@ -73,3 +73,14 @@ Daily plan：
 * 预习
 
 
+#9.28  
+Daily plan：
+*日语：    复习√    
+     *30min
+*NHK新闻听解√
+
+*沪江网课4课     
+     *47-49th    2lesson    90min
+*N1试题练习√
+
+* 预习
